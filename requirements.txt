@@ -1,0 +1,17 @@
+# --- CORE APPLICATION INTERFACE ---
+gradio>=4.0.0
+altair>=5.0.0
+matplotlib>=3.7.0
+
+# --- DOCUMENT & TEXT PARSING ---
+pypdf>=4.0.0
+typing-extensions>=4.5.0
+
+# --- AI CORE & NETWORKING ---
+groq>=0.4.0
+google-genai>=0.1.0
+requests>=2.31.0
+httpx>=0.25.0
+
+# --- SECURITY & ENVIRONMENT ---
+python-dotenv>=1.0.0
